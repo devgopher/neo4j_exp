@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neo4j_experiments", "neo4j_experiments\neo4j_experiments.csproj", "{4BB54B4D-FE36-4962-943E-67FB72AB0EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neo4j_web", "neo4j_web\neo4j_web.csproj", "{FC5DDAFA-DB01-4242-96EA-5AF82E05E49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB54B4D-FE36-4962-943E-67FB72AB0EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB54B4D-FE36-4962-943E-67FB72AB0EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB54B4D-FE36-4962-943E-67FB72AB0EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB54B4D-FE36-4962-943E-67FB72AB0EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5DDAFA-DB01-4242-96EA-5AF82E05E49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5DDAFA-DB01-4242-96EA-5AF82E05E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5DDAFA-DB01-4242-96EA-5AF82E05E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5DDAFA-DB01-4242-96EA-5AF82E05E49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
